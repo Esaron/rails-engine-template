@@ -1,5 +1,5 @@
-require "rails/engine/template/version"
-require "rails/engine/template/engine"
+require 'rails/engine/template/version'
+require 'rails/engine/template/engine'
 
 module Rails
   module Engine
